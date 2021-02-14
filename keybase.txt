@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/emmegi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://matteogaldi.dev
+  * I am emmegi (https://keybase.io/emmegi) on keybase.
+  * I have a public key ASCMj6C2N6_3_2zJV79A_BnLi7x2bvb2yb6qdRnXN20VYgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120264ae8bf41b785b4dc4ba4206a745d92bf4b8121c22a3dab9fda8af9c3b0a9380a",
+      "host": "keybase.io",
+      "kid": "01208c8fa0b637aff7ff6cc957bf40fc19cb8bbc766ef6f6c9beaa7519d7376d15620a",
+      "uid": "41a685dee9b359d21ba8099522920219",
+      "username": "emmegi"
+    },
+    "merkle_root": {
+      "ctime": 1613299640,
+      "hash": "9542ebc602aecc822184a3ff901cc96227940f2f989b6053e900f421cd27f48ba045284da6f9c2825d81dedea8a30901471e32da876a84b4b278543a57496f31",
+      "hash_meta": "45737b15c78c68161c596ce6aaa0d5438dec56e903b6873bbcb5d6b5e4b4b103",
+      "seqno": 19108404
+    },
+    "service": {
+      "entropy": "05BpO47HPDaeH5n8vjHSYL64",
+      "hostname": "matteogaldi.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1613299700,
+  "expire_in": 504576000,
+  "prev": "7c18817d4211a50bed80042b7ec08a1ae8e478149d40ddd7eaf14a2607a299ab",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjI+gtjev9/9syVe/QPwZy4u8dm729sm+qnUZ1zdtFWIKp3BheWxvYWTESpcCDcQgfBiBfUIRpQvtgAQrfsCKGujkeBSdQN3X6vFKJgeimavEIN66UV4MSvh7nYQvaysvmId3JfCrsqzC63LDyotY7ZSMAgHCo3NpZ8RA3LjGiMkIOkYj9p6ImGVRmlo0bqsar/Te8iUT4nNYDwG49pqL9rgPuqiMg4c5SgwZfc0xhgF8dVPAYH7C9JeuAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ3xhF06ovyBuYbSk7ai2guPI+ruoyK2A/QI82lB+nkro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emmegi
+
+==================================================================
